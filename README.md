@@ -32,6 +32,10 @@ This project analyzes Citi Bike rideshare - sampling August 2019 data.
 
   
 
-Summary:
+**Summary:**
 
-- There is a high-level summary of the results and two additional visualizations are suggested for future analysis **(5 pt)**
+In summary most of the riders using Citibike are male. A majority of the riders are subscribers. The marketing department has opportunities for improvement. Potential additional vizes:
+
+- Most popular routes (starting and ending locations)
+- Ages of the riders
+- Bikes that are coming up for repair
